@@ -1,7 +1,7 @@
 +++
 title = "THE SOIL FACTORY PRESS AT THE SOIL FACTORY"
 image = "img/soilfactorypressbanner.png"
-thumb = "img/soilfactorypressbanner.jpg"
+thumb = "img/soilfactorypressbanner.png"
 +++
 
 **The Soil Factory Press**
